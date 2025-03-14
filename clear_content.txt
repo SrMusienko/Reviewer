@@ -1,0 +1,357 @@
+# My (sort of) Review of the Galaxy A55 5G... after 119 days : r/samsunggalaxy
+
+My (sort of) Review of the Galaxy A55 5G... after 119 days : r/samsunggalaxy
+[Skip to main content](#main-content)
+My (sort of) Review of the Galaxy A55 5G... after 119 days : r/samsunggalaxy
+Open menu
+Open navigation
+Go to Reddit Home
+r/samsunggalaxy
+A chip
+A close button
+Get App
+Get the Reddit app
+[Log In](https://www.reddit.com/login/)
+Log in to Reddit
+Expand user menu
+Open settings menu
+[Go to samsunggalaxy](/r/samsunggalaxy/)
+[r/samsunggalaxy](/r/samsunggalaxy/)
+![A banner for the subreddit](https://styles.redditmedia.com/t5_2y8rx/styles/bannerBackgroundImage_1jvg2coz8kr21.png)
+![r/samsunggalaxy icon](https://styles.redditmedia.com/t5_2y8rx/styles/communityIcon_ltwy9ls71rr21.png)
+[r/samsunggalaxy](/r/samsunggalaxy/)
+![upvote](https://emoji.redditmedia.com/ad1td4bx9ezz_t5_3nqvj/upvote)
+![upvote](https://emoji.redditmedia.com/ad1td4bx9ezz_t5_3nqvj/upvote)
+🥳ABXYLUTE S9 PREMIUM MOBILE CONTROLLER ANNOUCEMENT AND GIVEAWAY��🥳
+Discussion/comparison/help for the Samsung Galaxy line of devices.
+---
+102K
+Members
+39
+Online
+•
+7 mo. ago
+[kix820](/user/kix820/)
+# My (sort of) Review of the Galaxy A55 5G... after 119 days
+![r/samsunggalaxy - My (sort of) Review of the Galaxy A55 5G... after 119 days](https://preview.redd.it/my-sort-of-review-of-the-galaxy-a55-5g-after-119-days-v0-2ab3le0y8mgd1.jpg?width=3000&format=pjpg&auto=webp&s=341faf722a7f2b89684249489bcafff685ad7390)
+![r/samsunggalaxy - My (sort of) Review of the Galaxy A55 5G... after 119 days](https://preview.redd.it/my-sort-of-review-of-the-galaxy-a55-5g-after-119-days-v0-nlynd1zz8mgd1.jpg?width=4000&format=pjpg&auto=webp&s=da969e1e2a31c612266d99badaeb5321bf0a5668)
+![r/samsunggalaxy - My (sort of) Review of the Galaxy A55 5G... after 119 days](https://preview.redd.it/my-sort-of-review-of-the-galaxy-a55-5g-after-119-days-v0-h9a2dx019mgd1.jpg?width=3000&format=pjpg&auto=webp&s=51604317d4a48a44d562584c9f58789d7f6126fc)
+So, it's been about 4 months since I have the device, but there are still people asking about it to this day. Once again, allow me to share my experience of the 8/256 variant as my daily driver.
+As with my previous review, I'll be defining my use case first. The phone is used every day as a mix of office work, games, online messaging, and hotspot for my tablet, which I previously reviewedhere. I've shifted my data SIM from my tablet to this phone, and so this became the hotspot for my devices twice a week or more. Occasionally, it's an extension of my Galaxy Z Flip5 (recently upgraded to 6), which may warrant another post much later.
+Physical Design - This is probably one of the biggest and heaviest phones I've had in quite a while. Its large size gives a little oomph to the bass of the speakers, and perhaps help in thermal management since there's more room for heat to move around and dissipate. It adopts the more industrial, flat corners of the flagship S24 series which helps with your grip, except for the back which still has the glossy finish. It seems there are 4 mic slots, 2 each at the top and bottom, which helps with noise cancellation. This is the first time I've seen a speaker "slit" rather than the traditional grill at the bottom. And there's also IP67 protection, so you won't matter about getting some dust and water in there. Lastly, this Lilac variant gives off a rainbow effect when light reflects off it. I'm not sure if the other colors have that, but it's a nice, cute touch.
+Display - The display is a 6.6-inch 1080p AMOLED display. Those who are familiar with the "Samsung formula" can expect deep blacks and punchy colors from any angle. The 120Hz refresh rate gives you that smoothness when scrolling in apps or at the home screen. My only gripe being familiar with the Samsung formula is the colors tends toward more on the natural side even with the Vivid color mode and Eye comfort shield turned off. Even my Tab S9 FE has brighter colors, and that tablet only has an IPS display. I'm not sure if this is a bug or intentional on Samsung's part, since many of its features tend to be inspired by another brand (ahem, Apple). Lastly, it has Widevine L1 certification, so streaming HD or better videos is not a problem.
+Audio - The above-mentioned slit at the bottom is accompanied by the dual-purpose speaker at the top. There's no sign of it being AKG-tuned like some other Samsung units, but Dolby Atmos options can be seen in the Sound settings, along with other features like equalizer, boost dialogue, and adapt sound, which is basically presets of settings depending on my age. Oh, and I can set an app to a specific output device (I haven't tried it yet), as well as share the audio I'm playing to different output devices. As mentioned, there's a little oomph to the bass being a large unit, and not too bad at the trebles as well, this being used at times for online meetings. Things can be pretty loud, but it seems Samsung muted things a bit with recent updates. Haptics are pretty meh, though, but there's always an option to adjust the intensity..
+Performance - This phone sits at the top of the Samsung midrange line, but it's a midrange phone, nonetheless. The Exynos 1480 seems to be an impressive step in the right direction. Compared to my tablet which has the previous 1380, you'll notice a slight difference in speed. The more noticeable attribute is this phone doesn't heat up, which is surprising for an Exynos-powered phone. Whether it has improved thermals inside, better chip efficiency, the sheer size of the phone, or a mixed bag of them all, I'm not sure. But as critic of previous Exynos chips, I'd say Samsung has finally done it, at least in their midrange lineup. That Xclipse 530 still seems to be a mixed bag, as there are some games whose highest graphics settings are limited. But I'm probably nitpicking at the devs here. However, if you're the user who runs apps or games for extended periods of time, this phone can sustain its performance due to its (very) good thermals.
+Connectivity - Like newer midrangers there, the A55 supports WiFi6 connection, no issues there. Connections to local telecoms' 5G networks seem to be good and can sustain 5G speeds for prolonged periods, even when set at hotspot (I have a feeling some brands steps down the network when on 5G to control thermals). It still uses USB 2.0, so no video out on this, which I don't expect anyway. Bluetooth seems good, as my Buds FE can connect to it instantly, as well as Quick Share my files to other devices.
+Battery - The pretty hefty 5k mAh battery gives me 2 days of usage, more or less, with most of the week on WiFi. On the road to and from the office, it gives me a day and some. But like my other Samsung devices, I charge it to 100% before I leave. The gripe here is charging the battery, which is limited to 25W. Although I've noticed the charger blasts its full 25W power at some point, something I've only noticed on Samsung devices with larger batteries. For context, my Tab also receives the full 25W power, while my previous S23, Flip5, and now the Flip6, receives 15-21W peak power.
+UI - The A55 got One UI 6.1 when I got it out of the box, ahead of my former S23, which eventually got it sometime later. Like other Samsung devices, it's plain and simple, with no stutters or bugs in my experience. Throw in Good Lock in there and you can additionally customize it to your heart's content. This Good Lock app a whole new customization experience you won't see in plain, old One UI.
+Calls and Messaging - VoLTE is chosen by default when on a 5G network, but I can choose not to when 4G is the selected option. My other network doesn't have a signal at my residence sometimes, but VoWiFi is there as backup. Calls are clear, whether through the earpiece, loudspeaker, or buds. There are 2 SIM slots in there. The other slot doubles as a memory card slot. I can choose between the two, which one defaults for calls, SMS, and data. With messaging, I went with Google Messages vs. the Samsung one for familiarity and RCS. Both are straightforward to use, but the latter seems to be lacking RCS support, so I just disabled it.
+Cameras - Between my former Flip5 and the A55, I actually prefer the latter. Perhaps it's due to the limitations of the hardware of the former, but they would somewhat even out probably in post processing, with the Flip5 getting flagship software treatment despite its 12mp shooters. Nonetheless, cameras on this one are good, whether in daylight or nighttime. There's a teeny tiny bit of a lag when shooting night mode photos, but that's me nitpicking. No complaints here, not even the 32mp front facing shooter. I can grab either phone previously, and most people won't know the difference, save the watermarks on the photos.
+Other Features - like my review of my Tab S9 FE, Modes and Routines bring out some of the best in One UI. That's one automation tool Samsung should hold in high esteem. There are other features here like I can play a video here, pause it, and continue it on my other Samsung devices. Also, my Buds can shift from one Samsung device to another, depending on which device I'm using. You won't find DeX here, nor the Galaxy AI features, but I find most of the features on the latter more of a gimmick rather than being useful. Oh, and the promise of guaranteed 4 years of OS updates and 5 years of security updates would keep the A55 fresh in the long term. This is good news for users who keep their phones longer than some (like me).
+With its price range, competition is pretty tight, even from within its backyard, with the S23 FE just one or 2 steps above it. Some are even equipped with high-end Snapdragon chips and faster charging. But if you're looking for a daily driver, all around phone who's the jack of all trades, the Galaxy A55 5G might just be the one you're looking for.
+Read more
+Add a comment
+Sort by:
+Best
+Open comment sort options
+Best
+Top
+New
+Controversial
+Old
+Q&A
+[pinklemonaxe](/user/pinklemonaxe/)
+•
+[6mo ago](/r/samsunggalaxy/comments/1ejrag5/comment/lme6yeo/)
+I am using an A55 5G, too, and one thing that irks me the most is the front camera as the subject appears to look dull and dry :< but nonetheless, this really is a good phone! Super love your review, btw!
+Reply
+reply
+10
+more replies
+10
+more replies
+[More replies](/r/samsunggalaxy/comments/1ejrag5/comment/lme6yeo/)
+[JustADreamYouHad](/user/JustADreamYouHad/)
+•
+[7mo ago](/r/samsunggalaxy/comments/1ejrag5/comment/lgfx58u/)
+Thank you! I just got this phone (previous was galaxy A51) and I too noticed the colours right away! Also the battery is 20% larger but I swear this new phone doesn't last as long... Power saving is on all the time OFC.
+PS we have the same case hehe
+Reply
+reply
+[kix820](/user/kix820/)
+•
+[7mo ago](/r/samsunggalaxy/comments/1ejrag5/comment/lgwvkr5/)
+It seems the larger battery merely compensates for the larger screen and newer internals. Data on 5G also adds to that, especially if your area is not well covered by 5G, as the phone attempts to keep its reception steady. Still, it seems to be more battery efficient compared to an older A52 here, which finally showed its age (and internals, literally. Back cover opened up by itself lol).
+Reply
+reply
+3
+more replies
+3
+more replies
+[More replies](/r/samsunggalaxy/comments/1ejrag5/comment/lgwvkr5/)
+3
+more replies
+3
+more replies
+[More replies](/r/samsunggalaxy/comments/1ejrag5/comment/lgfx58u/)
+![u/hommedevertu avatar](https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png)
+[hommedevertu](/user/hommedevertu/)
+•
+[7mo ago](/r/samsunggalaxy/comments/1ejrag5/comment/li6hnay/)
+Love your review! I'm from the Philippines as well. You may have convinced me to buy one.
+Reply
+reply
+2
+more replies
+2
+more replies
+[More replies](/r/samsunggalaxy/comments/1ejrag5/comment/li6hnay/)
+[GlitchAFK_](/user/GlitchAFK_/)
+•
+[5mo ago](/r/samsunggalaxy/comments/1ejrag5/comment/lriu4gz/)
+I previously had Galaxy M51 which I'd been using from the last 4 years and it was such a beast as a phone, the reason why i upgraded to A55 is just because the former phone didn't have a 5G connectivity. IMO I'm disappointed with the camera's of Galaxy A55, does the job but not as good as M51. The nightography is good and impressive but the daylight pictures are just average, good at most. Samsung needs to work more on their cameras.
+Reply
+reply
+[The_Philosopher_Ben](/user/The_Philosopher_Ben/)
+•
+[7mo ago](/r/samsunggalaxy/comments/1ejrag5/comment/ljylxy4/)
+The recent update added an option to adjust vividness on the display settings. It looks so much better now with vividness cranked up a step higher! This is one of the best A series samsung created, maybe on par with A52S.
+Reply
+reply
+3
+more replies
+3
+more replies
+[More replies](/r/samsunggalaxy/comments/1ejrag5/comment/ljylxy4/)
+[Aalshi_man](/user/Aalshi_man/)
+•
+[7mo ago](/r/samsunggalaxy/comments/1ejrag5/comment/lghlkxb/)
+Samsung should do something about the design of thier phones the A series and the S series phone expect ultra look same.
+Reply
+reply
+[kix820](/user/kix820/)
+•
+[7mo ago](/r/samsunggalaxy/comments/1ejrag5/comment/lgijdcz/)
+Oh yeah, I was supposed to comment on that but it seems Samsung took a uniform approach to their slabs this year, diminishing any distinction between an A and 2 of the S series. It's another sign they're taking cue from another brand.
+Reply
+reply
+[More replies](/r/samsunggalaxy/comments/1ejrag5/comment/lghlkxb/)
+[catchshivendra](/user/catchshivendra/)
+•
+[7mo ago](/r/samsunggalaxy/comments/1ejrag5/comment/lipk23f/)
+Nice and detail review, Would be able to suggest which is best between A55, M55 and F55
+My budget is max 30-35
+Thanks in advance .
+Reply
+reply
+[kix820](/user/kix820/)
+•
+[7mo ago](/r/samsunggalaxy/comments/1ejrag5/comment/liplm5q/)
+Oh wow, it would've been nice to get my hands on either the F or M55, as these have Snapdragon chips. However, I'd argue that the A55 would perform just as good.
+Unfortunately, only the A series are available where I'm at. Although on paper, the F55 seems to top the 3, only edged up by its vegan leather back if we'll follow specs from GSMArena. Either x55 models have identical specs, which have better selfie cam and faster charging. The A55, though, may have better triple cams.
+Reply
+reply
+1
+more reply
+1
+more reply
+[More replies](/r/samsunggalaxy/comments/1ejrag5/comment/liplm5q/)
+1
+more reply
+1
+more reply
+[More replies](/r/samsunggalaxy/comments/1ejrag5/comment/lipk23f/)
+![u/ElonTastical avatar](https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png)
+[ElonTastical](/user/ElonTastical/)
+•
+[7mo ago](/r/samsunggalaxy/comments/1ejrag5/comment/lgga6tt/)
+A35 next?
+Reply
+reply
+[kix820](/user/kix820/)
+•
+[7mo ago](/r/samsunggalaxy/comments/1ejrag5/comment/lggb05j/)
+Apologies, but I don't have one with me. The Flip6 may be up next in a few weeks.
+Reply
+reply
+2
+more replies
+2
+more replies
+[More replies](/r/samsunggalaxy/comments/1ejrag5/comment/lggb05j/)
+[More replies](/r/samsunggalaxy/comments/1ejrag5/comment/lgga6tt/)
+![u/pas_mecra avatar](https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png)
+[pas_mecra](/user/pas_mecra/)
+•
+[7mo ago](/r/samsunggalaxy/comments/1ejrag5/comment/lhpy69u/)
+Great review ! You said that Samsung mute the sound on récent update, you mean that the last update reduce the speekers quality/volume ?
+Reply
+reply
+5
+more replies
+5
+more replies
+[More replies](/r/samsunggalaxy/comments/1ejrag5/comment/lhpy69u/)
+[LifeNerd](/user/LifeNerd/)
+•
+[7mo ago](/r/samsunggalaxy/comments/1ejrag5/comment/lim04vb/)
+Why do you think it's so heavy? Other 5k battery phones are not so heavy... If it's the glass back, I don't really get it as most people will use it with a case and then the hlass back is useless - even without a case, what's the purpose of the glass back (what's it's benefit over a plastic or vegan leather back). I have the A55 now for a month and it's amazing but the only thing bugging me is the weight (250g with a Samsung case...) other brands manage 180-190g.
+Reply
+reply
+2
+more replies
+2
+more replies
+[More replies](/r/samsunggalaxy/comments/1ejrag5/comment/lim04vb/)
+[Nad216](/user/Nad216/)
+•
+[6mo ago](/r/samsunggalaxy/comments/1ejrag5/comment/ln022as/)
+A55 vs redmi 13pro vs honor 200 ????
+Reply
+reply
+[kix820](/user/kix820/)
+•
+[6mo ago](/r/samsunggalaxy/comments/1ejrag5/comment/ln23vuk/)
+Unfortunately, I haven't had the pleasure of checking out both the Xiaomi and Honor units physically. It would seem, though, that the Honor 200's reviews are raving for its good cameras. If cameras are your thing, you might want to check it out. Personally, I'd still pick the A55 being the jack of all trades.
+Reply
+reply
+1
+more reply
+1
+more reply
+[More replies](/r/samsunggalaxy/comments/1ejrag5/comment/ln23vuk/)
+[More replies](/r/samsunggalaxy/comments/1ejrag5/comment/ln022as/)
+![u/Arkielll avatar](https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png)
+[Arkielll](/user/Arkielll/)
+•
+[6mo ago](/r/samsunggalaxy/comments/1ejrag5/comment/lonuer1/)
+A55 when gaming keeps jittering, tried everything from the settings to removing screen protector and even reboots and factory restarts
+Reply
+reply
+2
+more replies
+2
+more replies
+[More replies](/r/samsunggalaxy/comments/1ejrag5/comment/lonuer1/)
+[walaoRIKI](/user/walaoRIKI/)
+•
+[6mo ago](/r/samsunggalaxy/comments/1ejrag5/comment/lp0465e/)
+Bought this phone weeks ago, think my biggest complaint will be the camera quality when taking photo with people. The lips are darker than actual.
+Reply
+reply
+[deleted]
+•
+[5mo ago](/r/samsunggalaxy/comments/1ejrag5/comment/lp6yxl8/)
+Thank you for your review, as an A55 user I agree on all points :) As for S23 FE and a recently released S24 FE both are considerably more expensive than my A55 here in Ukraine.
+Reply
+reply
+![u/Historical-Pin5836 avatar](https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png)
+[Historical-Pin5836](/user/Historical-Pin5836/)
+•
+[4mo ago](/r/samsunggalaxy/comments/1ejrag5/comment/luu01n4/)
+Do you guys also notice screen jittering when playing or scrolling slowly thru socmeds? So frustrating.
+Reply
+reply
+View more comments
+View more comments
+Loading
+New to Reddit?
+Create your account and connect with a world of communities.
+Continue with Email
+Continue With Phone Number
+By continuing, you agree to our
+[User Agreement](https://www.redditinc.com/policies/user-agreement)
+and acknowledge that you understand the
+[Privacy Policy](https://www.redditinc.com/policies/privacy-policy)
+.
+# More posts you may like
+* r/samsunggalaxy•17 days agor/samsunggalaxyDiscussion/comparison/help for the Samsung Galaxy line of devices.---102KMembers39Online### Galaxy A55309upvotes·98comments---
+* r/samsunggalaxy•6 mo. agor/samsunggalaxyDiscussion/comparison/help for the Samsung Galaxy line of devices.---102KMembers39Online### Samsung Galaxy A55 is actually pretty decent73upvotes·67comments---
+* r/samsunggalaxy•4 mo. agor/samsunggalaxyDiscussion/comparison/help for the Samsung Galaxy line of devices.---102KMembers39Online### Should I get the galaxy a55??5upvotes·57comments---
+* r/samsunggalaxy•8 mo. agor/samsunggalaxyDiscussion/comparison/help for the Samsung Galaxy line of devices.---102KMembers39Online### Is the Galaxy A55 really for me?8upvotes·14comments---
+* r/samsunggalaxy•6 mo. agor/samsunggalaxyDiscussion/comparison/help for the Samsung Galaxy line of devices.---102KMembers39Online### Samsung Galaxy A16 5G57upvotes·77comments---
+* r/samsunggalaxy•3 mo. agor/samsunggalaxyDiscussion/comparison/help for the Samsung Galaxy line of devices.---102KMembers39Online### Should I wait for the Galaxy A56?10upvotes·16comments---
+* r/samsunggalaxy•2 mo. agor/samsunggalaxyDiscussion/comparison/help for the Samsung Galaxy line of devices.---102KMembers39Online### My galaxy a31 😊289upvotes·29comments---
+* r/samsunggalaxy•7 mo. agor/samsunggalaxyDiscussion/comparison/help for the Samsung Galaxy line of devices.---102KMembers39Online### Pretty cool thing about Galaxy A15 5G204upvotes·74comments---
+* r/samsunggalaxy•26 days agor/samsunggalaxyDiscussion/comparison/help for the Samsung Galaxy line of devices.---102KMembers39Online### Galaxy A56 colors656upvotes·12comments---
+* r/samsunggalaxy•25 days agor/samsunggalaxyDiscussion/comparison/help for the Samsung Galaxy line of devices.---102KMembers39OnlineSPOILER### Galaxy A56 Leaks3upvotes·2comments---
+* r/samsunggalaxy•26 days agor/samsunggalaxyDiscussion/comparison/help for the Samsung Galaxy line of devices.---102KMembers39Online### Samsung Galaxy A56 Official Colors45upvotes·15comments---
+* r/samsunggalaxy•16 days agor/samsunggalaxyDiscussion/comparison/help for the Samsung Galaxy line of devices.---102KMembers39Online### Got myself a Galaxy A16 yesterday548upvotes·96comments---
+* r/samsunggalaxy•2 mo. agor/samsunggalaxyDiscussion/comparison/help for the Samsung Galaxy line of devices.---102KMembers39Online### Got new Samsung Galaxy A16 yesterday362upvotes·98comments---
+* r/samsunggalaxy•1 mo. agor/samsunggalaxyDiscussion/comparison/help for the Samsung Galaxy line of devices.---102KMembers39Online### My first Galaxy S - S25 Ultra33upvotes·26comments---
+* r/hackintosh•8 mo. agor/hackintoshWelcome to r/hackintosh!
+For support, visit the following Discord links:
+Intel: https://discord.gg/u8V7N5C
+AMD: https://discord.gg/EfCYAJW
+
+View rules and FAQ before posting.---204KMembers51Online### After spending a weekend on it... my 14.5 Sonoma Ryzentosh is in working order6upvotes·2comments---
+* r/CMFTech•8 mo. agor/CMFTechCMF by Nothing aims to produce accessibly priced devices; its first products being the Watch Pro, Buds Pro and Power 65w GaN. They recently released the CMF Phone 1, Watch Pro 2, Neckband Pro and Buds Pro 2. Focused on delivering "timeless designs" for great prices, along with "quality that's very hard to find" in its price segment. 
+
+This is an unofficial community to discuss CMF by Nothing and its products.---10KMembers2Online### The CMF Phone 1 feels like reliving the Moto Mods peak....12upvotes·4comments---
+* r/Ioniq5•7 mo. agor/Ioniq5International Forum for the Ioniq5
+
+* Please ensure your posts related to the Ioniq 5 in some way.
+
+* Please post all for sale vehicles in the sticky for sale thread.
+
+* Be kind to one another. Rude/vulgar/discriminatory posts and/or comments will not be tolerated.---40KMembers46Online### Bought a certified pre-owned 2023 ioniq 5 SLE on Friday....2upvotes·5comments---
+* r/calculators•9 mo. agor/calculatorsFrom the basics to indefinite integrals and gameboy emulators. A community for collectors, fans, and users of all types of calculators.---13KMembers7Online### HP 50g arrived, satisfactory enough to make me have second thoughts on buying a TI-89 Titanium too for the time being...10upvotes·10comments---
+* r/GooglePixel•8 mo. agor/GooglePixelThe (un)official home of #teampixel and the #madebygoogle lineup on Reddit. Get support, learn new information, and hang out in the subreddit dedicated to Pixel, Nest, Chromecast, the Assistant, and a few more things from Google.---1.1MMembers216Online### I've been having a Pixel 8 ( not pro) for two days and....6comments---
+* r/flashlight•8 mo. agor/flashlightWe discuss flashlights of all types!
+
+EDC, keychains, headlamps, lanterns, weapons, work, and many others.---237KMembers143Online### First Review of SFT-25R, on Convoy M2. New Candela King?40upvotes·38comments---
+* r/samsunggalaxy•8 mo. agor/samsunggalaxyDiscussion/comparison/help for the Samsung Galaxy line of devices.---102KMembers39Online### GALAXY A15. IS IT WORTH IT?19upvotes·70comments---
+* r/samsunggalaxy•3 mo. agor/samsunggalaxyDiscussion/comparison/help for the Samsung Galaxy line of devices.---102KMembers39Online### Which Samsung Galaxy A series phone to buy?8upvotes·39comments---
+* r/samsunggalaxy•5 mo. agor/samsunggalaxyDiscussion/comparison/help for the Samsung Galaxy line of devices.---102KMembers39Online### Samsung Galaxy A36 5G2188upvotes·75comments---
+* r/samsung•2 mo. agor/samsungCommunity run sub for all things Samsung---409KMembers71Online### Galaxy A56 announcement4comments---
+* r/samsunggalaxy•5 mo. agor/samsunggalaxyDiscussion/comparison/help for the Samsung Galaxy line of devices.---102KMembers39Online### Is it worth to buy a Samsung galaxy A55?2upvotes·13comments---
+---
+###### Related discussions
+[Best Samsung A Series Phone](/klp/best-samsung-a-series-phone/)
+[Best Value Android Phone](/klp/best-value-android-phone/)
+[Best Budget Camera Phone](/klp/best-budget-camera-phone/)
+[Best Value Samsung Phone](/klp/best-value-samsung-phone/)
+Top 2%
+[Rank by size](https://www.reddit.com/best/communities/20/#t5_2y8rx/)
+![upvote](https://emoji.redditmedia.com/ad1td4bx9ezz_t5_3nqvj/upvote)
+![upvote](https://emoji.redditmedia.com/ad1td4bx9ezz_t5_3nqvj/upvote)
+🥳ABXYLUTE S9 PREMIUM MOBILE CONTROLLER ANNOUCEMENT AND GIVEAWAY��🥳
+Public
+Anyone can view, post, and comment to this community
+## Top Posts
+---
+* RedditreReddit: Top posts of August 4, 2024---
+* RedditreReddit: Top posts of August 2024---
+* RedditreReddit: Top posts of 2024---
+[Reddit Rules](https://www.redditinc.com/policies/content-policy)
+[Privacy Policy](https://www.reddit.com/policies/privacy-policy)
+[User Agreement](https://www.redditinc.com/policies/user-agreement)
+[Reddit, Inc. © 2025. All rights reserved.](https://redditinc.com)
+Expand Navigation
+Collapse Navigation
+&nbsp;
+&nbsp;
+---
+---
+TOPICS
+Internet Culture (Viral)
+Games
+Q&As
+Technology
+Pop Culture
+Movies & TV
+---
+RESOURCES
+[About Reddit](https://www.redditinc.com)
+[Advertise](https://ads.reddit.com/register?utm_source=web3x_consumer&utm_name=left_nav_cta&utm_content=default)
+[Reddit ProBETA](/reddit-pro?utm_source=reddit&utm_medium=left_nav_resources)
+[Help](https://support.reddithelp.com/hc?utm_source=reddit&utm_medium=footer&utm_campaign=evergreen)
+[Blog](https://redditblog.com/)
+[Careers](https://www.redditinc.com/careers)
+[Press](https://www.redditinc.com/press)
+---
+[Communities](https://www.reddit.com/best/communities/1/)
+[Best of Reddit](https://www.reddit.com/posts/2025/global/)
+[Topics](https://www.reddit.com/topics/a-1/)
+![изображение](https://id.rlcdn.com/472486.gif)
+-----------------

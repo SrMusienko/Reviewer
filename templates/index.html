@@ -1,0 +1,312 @@
+<!-- templates/index.html -->
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Анализатор отзывов о товарах</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-color: #f5f7fa;
+            color: #333;
+        }
+        
+        .container {
+            max-width: 950px;
+            margin: 0 auto;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+        }
+        
+        h1, h2, h3 {
+            color: #2c3e50;
+            margin-bottom: 20px;
+        }
+        
+        h1 {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        
+        .search-form {
+            display: flex;
+            margin-bottom: 30px;
+        }
+        
+        input[type="text"] {
+            flex: 1;
+            padding: 12px 15px;
+            border: 1px solid #ddd;
+            border-radius: 4px 0 0 4px;
+            font-size: 16px;
+        }
+        
+        button {
+            background-color: #3498db;
+            color: #fff;
+            border: none;
+            padding: 12px 20px;
+            border-radius: 0 4px 4px 0;
+            cursor: pointer;
+            font-size: 16px;
+            transition: background-color 0.3s;
+        }
+        
+        button:hover {
+            background-color: #2980b9;
+        }
+        
+        button:disabled {
+            background-color: #95a5a6;
+            cursor: not-allowed;
+        }
+        
+        .results {
+            display: none;
+            margin-top: 30px;
+        }
+        
+        .loading {
+            text-align: center;
+            display: none;
+            margin: 30px 0;
+        }
+        
+        .spinner {
+            width: 50px;
+            height: 50px;
+            border: 5px solid #f3f3f3;
+            border-top: 5px solid #3498db;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin: 0 auto;
+        }
+        
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        
+        .error {
+            color: #e74c3c;
+            background-color: #fadbd8;
+            padding: 15px;
+            border-radius: 4px;
+            margin: 20px 0;
+            display: none;
+        }
+        
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            font-size: 14px;
+        }
+        
+        th, td {
+            padding: 12px;
+            text-align: left;
+            border: 1px solid #ddd;
+        }
+        
+        th {
+            background-color: #f2f2f2;
+            font-weight: bold;
+        }
+        
+        tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+        
+        tr:hover {
+            background-color: #f1f1f1;
+        }
+        
+        .summary-content {
+            white-space: pre-line;
+            line-height: 1.8;
+        }
+        
+        .conclusion {
+            background-color: #edf7ff;
+            padding: 15px;
+            border-radius: 4px;
+            margin-top: 20px;
+            font-weight: 500;
+        }
+        
+        /* Responsive design */
+        @media (max-width: 768px) {
+            .search-form {
+                flex-direction: column;
+            }
+            
+            input[type="text"] {
+                border-radius: 4px;
+                margin-bottom: 10px;
+            }
+            
+            button {
+                border-radius: 4px;
+            }
+            
+            table, thead, tbody, th, td, tr {
+                display: block;
+            }
+            
+            thead tr {
+                position: absolute;
+                top: -9999px;
+                left: -9999px;
+            }
+            
+            tr {
+                margin-bottom: 15px;
+                border: 1px solid #ccc;
+            }
+            
+            td {
+                border: none;
+                border-bottom: 1px solid #eee;
+                position: relative;
+                padding-left: 50%;
+            }
+            
+            td:before {
+                position: absolute;
+                top: 12px;
+                left: 12px;
+                width: 45%;
+                padding-right: 10px;
+                white-space: nowrap;
+                font-weight: bold;
+            }
+            
+            td:nth-of-type(1):before { content: "Site"; }
+            td:nth-of-type(2):before { content: "Rating"; }
+            td:nth-of-type(3):before { content: "Pros"; }
+            td:nth-of-type(4):before { content: "Cons"; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Анализатор отзывов о товарах</h1>
+        
+        <div class="search-form">
+            <input type="text" id="productQuery" placeholder="Введите название товара..." required>
+            <button id="searchButton" type="button">Найти отзывы</button>
+        </div>
+        
+        <div class="loading" id="loadingIndicator">
+            <div class="spinner"></div>
+            <p>Собираем и анализируем информацию о товаре...</p>
+            <p>Это может занять до минуты</p>
+        </div>
+        
+        <div class="error" id="errorMessage"></div>
+        
+        <div class="results" id="resultsContainer">
+            <div class="product-details" id="productDetails"></div>
+            <div id="summaryContent" class="summary-content"></div>
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const productQueryInput = document.getElementById('productQuery');
+            const searchButton = document.getElementById('searchButton');
+            const loadingIndicator = document.getElementById('loadingIndicator');
+            const errorMessage = document.getElementById('errorMessage');
+            const resultsContainer = document.getElementById('resultsContainer');
+            const productDetails = document.getElementById('productDetails');
+            const summaryContent = document.getElementById('summaryContent');
+            
+            productQueryInput.addEventListener('keypress', (e) => {
+                if (e.key === 'Enter') {
+                    searchProduct();
+                }
+            });
+            
+            searchButton.addEventListener('click', searchProduct);
+            
+            function searchProduct() {
+                const query = productQueryInput.value.trim();
+                
+                if (!query) {
+                    showError('Пожалуйста, введите название товара');
+                    return;
+                }
+                
+                loadingIndicator.style.display = 'block';
+                errorMessage.style.display = 'none';
+                resultsContainer.style.display = 'none';
+                searchButton.disabled = true;
+                
+                fetch('/api/analyze', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({ query: query }),
+                })
+                .then(response => response.json())
+                .then(data => {
+                    loadingIndicator.style.display = 'none';
+                    
+                    if (!data.success) {
+                        showError(data.error || 'Не удалось получить информацию о товаре');
+                        return;
+                    }
+                    
+                    displayResults(data);
+                })
+                .catch(error => {
+                    loadingIndicator.style.display = 'none';
+                    showError('Произошла ошибка при обработке запроса: ' + error);
+                })
+                .finally(() => {
+                    searchButton.disabled = false;
+                });
+            }
+            
+            function showError(message) {
+                errorMessage.textContent = message;
+                errorMessage.style.display = 'block';
+                resultsContainer.style.display = 'none';
+            }
+            
+            function displayResults(data) {
+                let productInfoHtml = '';
+                if (data.product_info) {
+                    const productInfo = data.product_info;
+                    productInfoHtml += `<h2>${productInfo.name || 'Результаты анализа'}</h2>`;
+                    
+                    if (productInfo.average_rating) {
+                        productInfoHtml += `<div class="product-meta"><p><strong>Общая оценка:</strong> ${productInfo.average_rating}/5</p></div>`;
+                    }
+                    
+                    if (Array.isArray(productInfo) && productInfo.length > 0) {
+                        productInfoHtml += `<table><thead><tr><th>Источник</th><th>Оценка</th><th>Плюсы</th><th>Минусы</th></tr></thead><tbody>`;
+                        productInfo.forEach(review => {
+                            productInfoHtml += `<tr><td>${review.site_name || 'Неизвестно'}</td><td>${review.rating || 'Н/Д'}</td><td>${review.pros || 'Не указаны'}</td><td>${review.cons || 'Не указаны'}</td></tr>`;
+                        });
+                        productInfoHtml += `</tbody></table>`;
+                    }
+                }
+                
+                productDetails.innerHTML = productInfoHtml;
+                summaryContent.innerHTML = data.summary ? `<p>${data.summary}</p>` : '';
+                resultsContainer.style.display = 'block';
+                resultsContainer.scrollIntoView({ behavior: 'smooth' });
+            }
+        });
+    </script>
+</body>
+</html>
